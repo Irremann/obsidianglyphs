@@ -1,13 +1,13 @@
-minetest.register_node("obsidianglyphs:gliph_1", {
-	description = "Gliph One",
-	tiles = {"gliph_1.png"},
+minetest.register_node("obsidianglyphs:glyph_1", {
+	description = "Glyph One",
+	tiles = {"glyph_1.png"},
 	paramtype2 = "facedir",
 	groups = {cracky = 2},
 	sounds = default.node_sound_stone_defaults(),
 })
 
 minetest.register_craft({
-	output = "obsidianglyphs:gliph_1",
+	output = "obsidianglyphs:glyph_1",
 	recipe = {
 		{"", "dye:yellow", ""},
 		{"default:obsidian", "", "dye:yellow"},
@@ -15,16 +15,16 @@ minetest.register_craft({
   }
 })
 
-minetest.register_node("obsidianglyphs:gliph_2", {
-	description = "Gliph Two",
-	tiles = {"gliph_2.png"},
+minetest.register_node("obsidianglyphs:glyph_2", {
+	description = "Glyph Two",
+	tiles = {"glyph_2.png"},
 	paramtype2 = "facedir",
 	groups = {cracky = 2},
 	sounds = default.node_sound_stone_defaults(),
 })
 
 minetest.register_craft({
-	output = "obsidianglyphs:gliph_2",
+	output = "obsidianglyphs:glyph_2",
 	recipe = {
 		{"", "dye:yellow", ""},
 		{"default:obsidian", "dye:yellow", ""},
@@ -32,16 +32,16 @@ minetest.register_craft({
   }
 })
 
-minetest.register_node("obsidianglyphs:gliph_3", {
-	description = "Gliph Three",
-	tiles = {"gliph_3.png"},
+minetest.register_node("obsidianglyphs:glyph_3", {
+	description = "Glyph Three",
+	tiles = {"glyph_3.png"},
 	paramtype2 = "facedir",
 	groups = {cracky = 2},
 	sounds = default.node_sound_stone_defaults(),
 })
 
 minetest.register_craft({
-	output = "obsidianglyphs:gliph_3",
+	output = "obsidianglyphs:glyph_3",
 	recipe = {
 		{"dye:yellow", "", "dye:yellow"},
 		{"default:obsidian", "dye:yellow", ""},
@@ -49,16 +49,16 @@ minetest.register_craft({
   }
 })
 
-minetest.register_node("obsidianglyphs:gliph_4", {
-	description = "Gliph Four",
-	tiles = {"gliph_4.png"},
+minetest.register_node("obsidianglyphs:glyph_4", {
+	description = "Glyph Four",
+	tiles = {"glyph_4.png"},
 	paramtype2 = "facedir",
 	groups = {cracky = 2},
 	sounds = default.node_sound_stone_defaults(),
 })
 
 minetest.register_craft({
-	output = "obsidianglyphs:gliph_4",
+	output = "obsidianglyphs:glyph_4",
 	recipe = {
 		{"", "", "dye:yellow"},
 		{"default:obsidian", "dye:yellow", ""},
@@ -66,16 +66,16 @@ minetest.register_craft({
   }
 })
 
-minetest.register_node("obsidianglyphs:gliph_5", {
-	description = "Gliph Five",
-	tiles = {"gliph_5.png"},
+minetest.register_node("obsidianglyphs:glyph_5", {
+	description = "Glyph Five",
+	tiles = {"glyph_5.png"},
 	paramtype2 = "facedir",
 	groups = {cracky = 2},
 	sounds = default.node_sound_stone_defaults(),
 })
 
 minetest.register_craft({
-	output = "obsidianglyphs:gliph_5",
+	output = "obsidianglyphs:glyph_5",
 	recipe = {
 		{"", "dye:yellow", ""},
 		{"default:obsidian", "", "dye:yellow"},
@@ -83,16 +83,16 @@ minetest.register_craft({
   }
 })
 
-minetest.register_node("obsidianglyphs:gliph_6", {
-	description = "Gliph Six",
-	tiles = {"gliph_6.png"},
+minetest.register_node("obsidianglyphs:glyph_6", {
+	description = "Glyph Six",
+	tiles = {"glyph_6.png"},
 	paramtype2 = "facedir",
 	groups = {cracky = 2},
 	sounds = default.node_sound_stone_defaults(),
 })
 
 minetest.register_craft({
-	output = "obsidianglyphs:gliph_6",
+	output = "obsidianglyphs:glyph_6",
 	recipe = {
 		{"dye:yellow", "", "dye:yellow"},
 		{"default:obsidian", "", ""},
@@ -100,16 +100,16 @@ minetest.register_craft({
   }
 })
 
-minetest.register_node("obsidianglyphs:gliph_7", {
-	description = "Gliph Seven",
-	tiles = {"gliph_7.png"},
+minetest.register_node("obsidianglyphs:glyph_7", {
+	description = "Glyph Seven",
+	tiles = {"glyph_7.png"},
 	paramtype2 = "facedir",
 	groups = {cracky = 2},
 	sounds = default.node_sound_stone_defaults(),
 })
 
 minetest.register_craft({
-	output = "obsidianglyphs:gliph_7",
+	output = "obsidianglyphs:glyph_7",
 	recipe = {
 		{"dye:yellow", "", ""},
 		{"default:obsidian", "dye:yellow", ""},
@@ -117,16 +117,16 @@ minetest.register_craft({
   }
 })
 
-minetest.register_node("obsidianglyphs:gliph_8", {
-	description = "Gliph Eight",
-	tiles = {"gliph_8.png"},
+minetest.register_node("obsidianglyphs:glyph_8", {
+	description = "Glyph Eight",
+	tiles = {"glyph_8.png"},
 	paramtype2 = "facedir",
 	groups = {cracky = 2},
 	sounds = default.node_sound_stone_defaults(),
 })
 
 minetest.register_craft({
-	output = "obsidianglyphs:gliph_8",
+	output = "obsidianglyphs:glyph_8",
 	recipe = {
 		{"", "", "dye:yellow"},
 		{"default:obsidian", "dye:yellow", ""},
@@ -134,16 +134,16 @@ minetest.register_craft({
   }
 })
 
-minetest.register_node("obsidianglyphs:gliph_9", {
-	description = "Gliph Nine",
-	tiles = {"gliph_9.png"},
+minetest.register_node("obsidianglyphs:glyph_9", {
+	description = "Glyph Nine",
+	tiles = {"glyph_9.png"},
 	paramtype2 = "facedir",
 	groups = {cracky = 2},
 	sounds = default.node_sound_stone_defaults(),
 })
 
 minetest.register_craft({
-	output = "obsidianglyphs:gliph_9",
+	output = "obsidianglyphs:glyph_9",
 	recipe = {
 		{"", "dye:yellow", "dye:yellow"},
 		{"default:obsidian", "dye:yellow", ""},
